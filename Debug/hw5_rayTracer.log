@@ -1,0 +1,14 @@
+﻿Build started 11/17/2012 4:36:38 PM.
+     1>Project "C:\Users\Aldi\Downloads\hw5_rayTracer\hw5_rayTracer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\hw5_rayTracer.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Film.cpp
+         Film.cpp
+     1>Film.cpp(2): fatal error C1083: Cannot open include file: 'FreeImage.h': No such file or directory
+     1>Done Building Project "C:\Users\Aldi\Downloads\hw5_rayTracer\hw5_rayTracer.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.96
